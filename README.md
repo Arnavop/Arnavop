@@ -1,6 +1,6 @@
 ## Hello There! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Arnav Kamra , still a student. I am a tech enthusiast and a developer. Always open to collaborating on projects and innovative ideas. Feel free to connect with me here:
+I am Arnav Kamra , still a student. I am a tech enthusiast and a developer. Always open to collaborating on projects and innovative ideas.I mostly work in my "Metaverse" organization. Feel free to connect with me here:
 
 
 [![Instagram Badge](https://img.shields.io/badge/-arnav_717-purple?style=flat-square&logo=instagram&logoColor=white&link=https://https://www.instagram.com/arnav_717/)](https://www.instagram.com/arnav_717/)
