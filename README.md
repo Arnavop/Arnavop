@@ -38,14 +38,14 @@ I am Arnav Kamra , still a student. I am a tech enthusiast and a developer. Alwa
 
 
 ## &#x1f4c8; GitHub Stats
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <a href="https://github.com/Arnavop/Arnavop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavop&&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arnavop&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arnav's GitHub Stats" />
 </a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ## Connect with Me
