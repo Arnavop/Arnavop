@@ -41,7 +41,7 @@ I am Arnav Kamra , still a student. I am a tech enthusiast and a developer. Alwa
 <a href="https://github.com/Arnavop/Arnavop">
   <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=arnavop&&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/Arnavop/Arnavop">
   <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=Arnavop&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arnav's GitHub Stats" />
 </a>
 
