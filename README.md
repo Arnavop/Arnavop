@@ -52,6 +52,3 @@ I am Arnav Kamra , still a student. I am a tech enthusiast and a developer. Alwa
 [![](https://discord.c99.nl/widget/theme-2/857933962013179955.png)](https://discord.gg/7vWg935pd9)
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=arnavop.visitor-badge)
-
-
