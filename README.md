@@ -36,7 +36,7 @@ I am Arnav Kamra , still a student. I am a tech enthusiast and a developer. Alwa
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/Sublime_text-007ACC?logo=Sublime-Text&logoColor=white)
 
-
+<!---
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/Arnavop/Arnavop">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnavop&&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
@@ -44,11 +44,10 @@ I am Arnav Kamra , still a student. I am a tech enthusiast and a developer. Alwa
 <a href="https://github.com/Arnavop/Arnavop">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Arnavop&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Arnav's GitHub Stats" />
 </a>
-
+-->
 ## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Connect with Me
 [![](https://discord.c99.nl/widget/theme-2/857933962013179955.png)](https://discord.gg/7vWg935pd9)
-
 
