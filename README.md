@@ -11,7 +11,6 @@ I am Arnav Kamra , still a student. I am a tech enthusiast and a developer. Alwa
 ## Programming Languages
 ![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=PHP&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)
 ![HTML](https://img.shields.io/badge/Html5-3776AB?logo=Html5&logoColor=white)
